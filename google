@@ -1,1 +1,1 @@
-Great question! It's important to clarify that Git doesn't "run" files — Git is a version control system, not a runtime or compiler. However, after you've cloned or pulled a file using Git, you run it using the appropriate tool or language interpreter, depending on the file type.
+Nice question! It's important to clarify that Git doesn't "run" files — Git is a version control system, not a runtime or compiler. However, after you've cloned or pulled a file using Git, you run it using the appropriate tool or language interpreter, depending on the file type.
